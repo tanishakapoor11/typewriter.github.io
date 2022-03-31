@@ -1,0 +1,17 @@
+body{
+    background-color: #e8b0a3;
+    color: #fafafa;
+    text-align: center;
+}
+
+#text{
+    font-family: 'Special Elite', cursive;
+    font-size: 75px;
+    top: 50%;
+    left: 50%;
+}
+
+#img {
+    position: relative;
+    align-items: center;
+}
